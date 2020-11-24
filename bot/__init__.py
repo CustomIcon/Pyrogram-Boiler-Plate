@@ -1,6 +1,5 @@
 import logging
 from configparser import ConfigParser
-from datetime import datetime
 
 from bot.bot import bot
 
